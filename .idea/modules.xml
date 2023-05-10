@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ThirdLessonIntent.iml" filepath="$PROJECT_DIR$/.idea/ThirdLessonIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExampleSerializable.iml" filepath="$PROJECT_DIR$/.idea/modules/ExampleSerializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleSerializable.app.unitTest.iml" />
     </modules>
   </component>
 </project>
